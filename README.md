@@ -6,10 +6,10 @@
 ## 執行注意！
   * 如要使用python執行 先行安裝 beautifulsoup4 (pip3 install beautifulsoup4)
   * 使用py執行，若有類似can't find lxml 的錯誤
-      * 請將```python
+      * 請將```
             soup = BeautifulSoup(response.text, 'lxml')
             ```
-      * 改成```python
+      * 改成```
             soup = BeautifulSoup(response.text)
             ```
   * 下載的照片將存放於網頁同名資料夾當中，  
