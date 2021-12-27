@@ -1,6 +1,6 @@
 # 提供 [J_K_F](https://www.jkforum.net/forum-234-1.html "此網址請三思後打開") 網域內的目標網址執行圖片爬蟲
 
-朋友因素，突然想爬蟲這個網頁。  
+朋友因素，突然想爬蟲這個網頁[X18](https://www.jkforum.net/thread-14377630-1-1.html "此網址請三思後打開")。  
 在此留下CODE紀錄。  
 
 ## 執行注意！
