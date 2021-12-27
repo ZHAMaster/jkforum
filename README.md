@@ -4,6 +4,9 @@
 在此留下CODE紀錄。  
 
 ## 執行注意！
+  * 下載的照片將存放於網頁同名資料夾當中，  
+  * 資料夾位置與執行檔同個地方。
+
   * 如要使用python執行 先行安裝 beautifulsoup4 (pip3 install beautifulsoup4)
   * 使用py執行，若有類似can't find lxml 的錯誤
       * 請將```
@@ -12,8 +15,6 @@
       * 改成```
             soup = BeautifulSoup(response.text)
             ```
-  * 下載的照片將存放於網頁同名資料夾當中，  
-  * 資料夾位置與執行檔同個地方。
   
 ## ipynb 程式碼檢視
   <https://github.com/ZHAMaster/jkforum/blob/main/jkforum.ipynb>
@@ -22,5 +23,5 @@
   <https://github.com/ZHAMaster/jkforum/blob/main/jkforum.py>
 
 ## 下載exe執行檔
-  如果需要，直接從這邊下載。
+  如果需要，直接從這邊下載。  
   <https://github.com/ZHAMaster/jkforum/raw/main/jkforum.exe>
