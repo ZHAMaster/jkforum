@@ -5,6 +5,10 @@
 
 ## 執行注意！
   * 如要使用python執行 先行安裝 beautifulsoup4 (pip3 install beautifulsoup4)
+  * 使用py執行，若有類似can't find lxml 的錯誤
+      * 請將![image](https://user-images.githubusercontent.com/62257964/147448215-2a3516e9-0fa2-4299-a842-ed0afe5dfe66.png)
+      * 改成![image](https://user-images.githubusercontent.com/62257964/147448248-31adc1d1-0210-48a3-9773-82e6bfb5397f.png)
+
   * 下載的照片將存放於網頁同名資料夾當中，  
   * 資料夾位置與執行檔同個地方。
   
