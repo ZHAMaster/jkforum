@@ -1,8 +1,11 @@
-# 提供 www.jkforum.net/forum-234-1.html 網域內的目標網址執行圖片爬蟲
+# 提供 [J_K_F 此網址請三思後打開](www.jkforum.net/forum-234-1.html) 網域內的目標網址執行圖片爬蟲
+
+朋友因素，突然想爬蟲這個網頁。
+在此留下CODE紀錄。
 
 ## 執行注意！
-  下載的照片將存放於網頁同名資料夾當中
-  資料夾位置與執行檔同個地方
+  下載的照片將存放於網頁同名資料夾當中，
+  資料夾位置與執行檔同個地方。
   
 ## ipynb 程式碼檢視
   <https://github.com/ZHAMaster/jkforum/blob/main/jkforum.ipynb>
@@ -11,4 +14,5 @@
   <https://github.com/ZHAMaster/jkforum/blob/main/jkforum.py>
 
 ## 下載exe執行檔
+  如果需要，直接從這邊下載。
   <https://github.com/ZHAMaster/jkforum/raw/main/jkforum.exe>
