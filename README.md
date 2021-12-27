@@ -4,8 +4,9 @@
 在此留下CODE紀錄。  
 
 ## 執行注意！
-  下載的照片將存放於網頁同名資料夾當中，  
-  資料夾位置與執行檔同個地方。
+  * 如要使用python執行 先行安裝 beautifulsoup4
+  * 下載的照片將存放於網頁同名資料夾當中，  
+  * 資料夾位置與執行檔同個地方。
   
 ## ipynb 程式碼檢視
   <https://github.com/ZHAMaster/jkforum/blob/main/jkforum.ipynb>
