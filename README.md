@@ -1,4 +1,4 @@
-# 提供 [J_K_F 此網址請三思後打開](www.jkforum.net/forum-234-1.html) 網域內的目標網址執行圖片爬蟲
+# 提供 [J_K_F 此網址請三思後打開](https://www.jkforum.net/forum-234-1.html "link") 網域內的目標網址執行圖片爬蟲
 
 朋友因素，突然想爬蟲這個網頁。
 在此留下CODE紀錄。
